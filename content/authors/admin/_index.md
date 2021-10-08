@@ -19,16 +19,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Computer Architecture
-- Memory security
+- Security
 - RISC-V, ARM, Apple Silicon
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Information and Communication Engineering
+  - course: PhD in Information and Communications Engineering
     institution: Tokyo Institute of Technology
     year: 2021 - now
-  - course: MEng in Information and Communication Engineering
+  - course: MEng in Information and Communications Engineering
     institution: Beijing Institute of Technology
     year: 2016 - 2019
   - course: BSc in Electrical and Information Engineering
