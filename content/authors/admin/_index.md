@@ -72,4 +72,4 @@ highlight_name: true
 
 I am Zhongfa Wang (王仲发). Now I am a Ph.D. candidate in Department of Information and communication engineering, under the supervision of Prof. Hiroshi Sasaki. My research is mainly on memory security.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Wang_Zhongfa.pdf" "newtab" >}}resumé{{< /staticref >}}.
