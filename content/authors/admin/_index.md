@@ -43,17 +43,17 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
+- icon: weibo
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://weibo.com/u/3904480348
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
+  link: https://github.com/zhongfa-wang
+- icon: cv
+  icon_pack: ai
   link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
