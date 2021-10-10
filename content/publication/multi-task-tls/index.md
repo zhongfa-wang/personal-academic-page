@@ -1,20 +1,22 @@
 ---
-title: "An example conference paper"
+title: "Multi-task Total Least-Squares Adaptation over Networks"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Robert Ford
+- Zhongfa Wang
+- Lijuan Jia
+- Zijiang Yang
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2018-07-26"
+# T00:00:00Z
+doi: "10.23919/ChiCC.2018.8483188"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -26,13 +28,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *2018 37th Chinese Control Conference (CCC)*
+publication_short: In *2018 CCC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Collaborative parameter estimation is a significant application of distributed multi-agent network. In practical scenarios, there are many multi-task oriented applications that the networks have multiple optimum parameter vectors to be estimated. Considering the condition that the input and output of agents are corrupted by additive noises, the network can be modeled as the multi-task errors-in-variables (M-EIV) problem. Total least-squares (TLS) method is a typical solution to the EIV problem for it can minimize the perturbation both in input and output data. In this paper, we study the problem of unbiased parameter estimation over multi-task networks whose nodes' inputs are corrupted by white noises. We propose a novel multi-task TLS (M-TLS) algorithm which can reach consistent unbiased estimation. Simulation results show that the proposed algorithms can achieve consistent and unbiased estimation.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -44,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: './publication/multi-task-tls/multi-task-tls.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

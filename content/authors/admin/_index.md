@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Information and Communications Engineering
+  - course: Ph.D. in Information and Communications Engineering
     institution: Tokyo Institute of Technology
     year: 2021 - now
   - course: MEng in Information and Communications Engineering
