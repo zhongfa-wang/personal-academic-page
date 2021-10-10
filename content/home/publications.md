@@ -35,6 +35,8 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 1
+
+publication: './publication/multi-task-tls'
 ---
 
 {{% callout note %}}
