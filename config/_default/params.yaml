@@ -23,7 +23,7 @@ twitter: ''
 email: wang.z.az@m.titech.ac.jp
 phone: 86 - 156 6933 1342
 address:
-  street: 2-12-1-S3-69 Ookayama
+  street: 2-12-1 Ookayama
   city: Tokyo
   # region: CA
   postcode: '152-8552'
@@ -33,26 +33,26 @@ address:
 #   latitude: '37.4275'
 #   longitude: '-122.1697'
 directions: South Building 3
-office_hours:
-  - 'Weekdays 10:00 to 17:00'
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: envelope
-    icon_pack: fab
-    name: E-mail Me
-    link: '/#contact'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:yanifans?call'
-  - icon: line
-    icon_pack: fab
-    name: Chat on line
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+# office_hours:
+#   - 'Weekdays 10:00 to 17:00'
+# appointment_url: 'https://calendly.com'
+# contact_links:
+#   - icon: envelope
+#     icon_pack: fab
+#     name: E-mail Me
+#     link: '/#contact'
+  # - icon: skype
+  #   icon_pack: fab
+  #   name: Skype Me
+  #   link: 'skype:yanifans?call'
+  # - icon: line
+  #   icon_pack: fab
+  #   name: Chat on line
+  #   link: 'https://keybase.io/'
+  # - icon: comments
+  #   icon_pack: fas
+  #   name: Discuss on Forum
+  #   link: 'https://discourse.gohugo.io'
 
 # Site header
 
