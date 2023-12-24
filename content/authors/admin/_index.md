@@ -20,7 +20,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Computer Architecture
 - Computer Security
-- RISC-V, ARM, Apple Silicon
+- X86-64, RISC-V, ARM, Apple Silicon
 
 # Education to show in About widget
 education:
